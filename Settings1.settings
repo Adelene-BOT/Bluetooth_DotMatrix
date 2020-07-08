@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Bluetooth_DotMetrix" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="CurrentCOM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM6</Value>
+    </Setting>
+    <Setting Name="isSendTime" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="isSendDate" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="isSendNews" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="zone" Type="System.String" Scope="User">
+      <Value Profile="(Default)">KTN01</Value>
+    </Setting>
+    <Setting Name="state" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Kelantan</Value>
+    </Setting>
+    <Setting Name="waktuSolatHari" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">14</Value>
+    </Setting>
+    <Setting Name="waktuSolatBulan" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="waktusolatTahun" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2020</Value>
+    </Setting>
+    <Setting Name="lokasiZone" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Kota Bharu</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
